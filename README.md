@@ -5,7 +5,15 @@ Hi, i'm javascript developer and yes react developer too. I love to code and cre
 # 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=bugslogger&label=Profile%20Views&color=9&icon=2&pretty=true)](https://sarfaraj.web.app) 
 <br />
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/540951645945593867) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sarfarajshah_) 
+[![Discord](https://img.shields.io/discord/875863223008624720)]()
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/540951645945593867) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sarfarajshah_) 
+![GitHub User's stars](https://img.shields.io/github/stars/bugslogger)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEyxVbzsG0oj2f3qoUCQ00g)](https://youtube.com/@bugslogger)
+
+
+
+
 
 # 💻 Tech Stack:
 <p align="center"> 
